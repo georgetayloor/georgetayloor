@@ -1,4 +1,4 @@
 ## Hey 👋
 
 - 💿 I’m currently helping prevent financial crime at Monzo!
-- 📫 How to reach me: 
+- 📫 You can reach me [here](georgetaylor.dev).
